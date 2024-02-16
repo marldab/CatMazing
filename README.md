@@ -25,7 +25,7 @@ Discover and contribute to a variety of cat-themed games and educational tools d
 To get started with CatMazing, you'll need to have Git installed on your machine. Follow these steps to clone and start exploring our projects:
 
 ```bash
-git clone https://github.com/yourusername/CatMazing.git
+git clone https://github.com/marldab/CatMazing.git
 cd CatMazing
 ```
 
@@ -45,7 +45,7 @@ Provide feedback and suggestions to help improve our community and projects.
 Please read through our CONTRIBUTING.md for more details on making contributions.
 
 ## Community
-Join our community to share your cat stories, discuss project ideas, and collaborate with fellow cat-loving developers. Follow us on [Social Media Platform] and join our [Discussion Forum or Chat Platform] to stay connected.
+Join our community to share your cat stories, discuss project ideas, and collaborate with fellow cat-loving developers. Follow us on X - https://twitter.com/Marl_Dab and join our Discord to stay connected.
 
 ## License
 CatMazing is released under the MIT License. See the LICENSE file for more details.
