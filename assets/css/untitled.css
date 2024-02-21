@@ -1,0 +1,15 @@
+#mainNav {
+  color: #121212;
+  background: #BC9A17;
+  --bs-secondary: #BC9A17;
+  --bs-secondary-rgb: 0,0,0;
+  --bs-primary: #BC9A17;
+  --bs-primary-rgb: 255,255,255;
+  --bs-success: #ffffff;
+  --bs-success-rgb: 255,255,255;
+}
+
+.masthead {
+  color: #BC9A17;
+}
+
