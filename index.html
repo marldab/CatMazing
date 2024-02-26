@@ -48,6 +48,7 @@
                     <p class="lead">Whether you are a seasoned developer with a soft spot for whiskers or a cat lover looking to explore the fascinating world of programming, Catmazing is your go-to destination. Our mission is to bridge the gap between the tech-savvy and the cat-obsessed, creating a community where cat enthusiasts and code aficionados can come together to celebrate the magic of both worlds.</p>
                 </div>
             </div>
+            <audio id="downloadSound" src="assets/MeowMeow.mp3" preload="auto"></audio>
             <div class="text-center mt-4"><a class="btn btn-outline-light btn-xl" role="button" href="#"><i class="fa fa-download me-2"></i><span>Download Now!</span></a></div>
         </div>
     </section>
@@ -221,6 +222,15 @@
     </div>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/freelancer.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var downloadButton = document.querySelector('.btn-outline-light.btn-xl');
+            var downloadSound = document.getElementById('downloadSound');
+            downloadButton.addEventListener('click', function() {
+                downloadSound.play();
+            });
+        });
+        </script>
 </body>
 
 </html>
